@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382582942143",
+    "project_id": "auth-e8eda",
+    "storage_bucket": "auth-e8eda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382582942143:android:1d4edf8d3337f73136190a",
+        "android_client_info": {
+          "package_name": "com.example.auth_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc8NkydV7QqHAPoL--QjhSheA-GLvQA3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
